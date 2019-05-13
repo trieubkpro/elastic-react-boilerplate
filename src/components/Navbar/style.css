@@ -1,0 +1,10 @@
+.NavbarWrapper {
+    border-bottom: 1px dashed #ccc;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin-bottom: 20px;    
+}
+
+.ProductManagementItem {
+    margin-right: 20px;
+}
