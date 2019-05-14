@@ -5,4 +5,12 @@ This project made by TrieuTH to help me organize a project to apply the lastest 
  - maintainable
  - testable
 
- 
+## Techstack:
+ - Redux
+ - Immer
+ - Reselect
+ - Redux Saga
+
+## Pattern
+ - Architect By Feature-First: duck pattern
+ - HOC
